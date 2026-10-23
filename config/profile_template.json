@@ -1,0 +1,90 @@
+{
+  "personal": {
+    "first_name": "Firstname",
+    "last_name": "Lastname",
+    "full_name": "Firstname Lastname",
+    "preferred_name": "Nickname / Preferred Name",
+    "email": "your_email@example.com",
+    "phone": "+91 9876543210",
+    "location_city": "Bengaluru, Karnataka, India",
+    "country": "India"
+  },
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/your-profile",
+    "github": "https://github.com/your-username",
+    "portfolio": "https://github.com/your-username",
+    "leetcode": "https://leetcode.com/your-username"
+  },
+  "education": {
+    "university": "Your College / Institute Name",
+    "degree": "Bachelor of Technology (B.Tech)",
+    "major": "Computer Science / Civil / Mechanical / Electrical Engineering",
+    "cgpa": "7.80",
+    "cgpa_scale": "10.0",
+    "start_month_year": "08/2023",
+    "graduation_month_year": "05/2027",
+    "graduation_year": "2027",
+    "academic_standing": "Senior / Final Year",
+    "class_12": {
+      "board": "State Board / CBSE",
+      "score": "95%",
+      "year": "2023"
+    }
+  },
+  "preferences": {
+    "target_roles": [
+      "Software Engineer",
+      "SDE",
+      "Backend",
+      "Frontend",
+      "Full Stack",
+      "AI Engineer",
+      "Machine Learning",
+      "Data Scientist",
+      "Data Analyst",
+      "Quantitative"
+    ],
+    "excluded_keywords": [
+      "senior",
+      "sr.",
+      "lead",
+      "principal",
+      "staff",
+      "director",
+      "manager",
+      "quality check",
+      "inventory",
+      "trainer",
+      "operations",
+      "talent acquisition",
+      "recruiter",
+      "sales",
+      "marketing"
+    ],
+    "target_location_tiers": [
+      "India",
+      "Global Remote"
+    ],
+    "max_yoe_allowed": 1,
+    "user_cgpa": 7.80
+  },
+  "resumes": {
+    "SDE": "resumes/Resume_SDE.pdf",
+    "AI_ML": "resumes/Resume_AIML.pdf",
+    "DEFAULT": "resumes/Resume.pdf"
+  },
+  "essays": {
+    "why_join_us": "I want to work with high-performing engineering teams solving large-scale challenges. Your engineering culture, rigorous technical standards, and impact in the ecosystem align directly with my drive to build scalable software and apply modern engineering practices.",
+    "technical_project": "Developed a high-performance system from scratch demonstrating algorithmic optimization, clean API design, and modular architecture. Focused on efficiency, edge-case resilience, and production-grade quality standards.",
+    "availability": "Available for 6-month full-time internship or immediate full-time employment as per company timelines."
+  },
+  "eeo": {
+    "gender": "Male",
+    "ethnicity": "South Asian",
+    "hispanic": "No",
+    "veteran": "Not a veteran",
+    "disability": "No",
+    "work_auth_in_country": "Yes",
+    "require_sponsorship": "No"
+  }
+}

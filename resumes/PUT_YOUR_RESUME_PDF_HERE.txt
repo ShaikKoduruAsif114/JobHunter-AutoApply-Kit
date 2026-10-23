@@ -1,0 +1,9 @@
+Place your resume PDF file(s) in this 'resumes/' folder.
+
+Example:
+- Resume.pdf
+or if you have separate resumes for different tracks:
+- Resume_SDE.pdf
+- Resume_AIML.pdf
+
+Then run 'setup_wizard.py' or double click 'start.bat' and specify the filename!

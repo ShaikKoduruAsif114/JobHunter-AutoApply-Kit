@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# User-specific private configs (Never commit personal details)
+config/profile.json
+config/pipeline_state.json
+
+# Resumes (Keep templates/placeholders only)
+resumes/*.pdf
+!resumes/PUT_YOUR_RESUME_PDF_HERE.txt
+
+# Generated Excel Application Trackers
+Job_Applications_Tracker.xlsx
+*.xlsx
+
+# Browser Profiles and Databases
+.autoapply_chrome_profile/
+*.db
+*.session
+
+# Virtual Environments
+venv/
+.venv/
+env/
